@@ -1,2 +1,2 @@
 # My-Certifications
-This repository contains all the certification that I have obtained from HackerRank
+This repository contains a collection of certifications I have obtained through various platforms.
